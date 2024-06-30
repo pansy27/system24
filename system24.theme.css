@@ -10,11 +10,11 @@
  * @authorLink https://www.refact0r.dev
 */
 
-@import url('https://refact0r.github.io/system24/system24.css');
+@import url('https://raw.githubusercontent.com/pansy27/system24/main/system24.css');
 
 /* customize things here */
 :root {
-	--font: 'DM Mono';
+	--font: 'Comic Sans MS';
 	letter-spacing: -0.05ch;
 	font-weight: 300;
 	--label-font-weight: 500;
